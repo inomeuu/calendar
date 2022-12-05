@@ -1,0 +1,6 @@
+framework module Pods_Calendar_pr {
+  umbrella header "Pods-Calendar_pr-umbrella.h"
+
+  export *
+  module * { export * }
+}
